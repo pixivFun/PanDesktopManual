@@ -1,5 +1,5 @@
 建议启用 socks5 代理配合浏览器使用
-启用本地 DNS 服务器需要拥有监听 53 端口的权限，请使用 setcap 命令给予权限（tools文件夹下包含相关工具）或使用 sudo 运行 PanDesktop）
+启用本地 DNS 服务器需要拥有监听 53 端口的权限，请使用 setcap 命令给予权限（tools文件夹下包含相关工具或使用 sudo 运行 PanDesktop）
 
 
 标题栏按钮
