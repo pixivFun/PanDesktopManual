@@ -1,9 +1,9 @@
 PanDesktop 使用手册
 ============
-* __[请前往 Wiki](https://github.com/pixivFun/PanDesktopManual/wiki)__
+* 您可以提交 Pull Request 帮助我们完善
 
 版权
 ---------
 
-	Copyright (C) 2018 pixiv.fun
+	Copyright (C) 2018 pixiv.FUN All rights reserved.
 
